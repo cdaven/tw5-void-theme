@@ -1,0 +1,6 @@
+created: 20220109153310
+modified: 20220109153310
+title: $:/themes/tiddlywiki/vanilla/settings/editorfontfamily
+type: text/vnd.tiddlywiki
+
+system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Ubuntu", "Roboto", "Noto Sans", "Droid Sans", sans-serif;

@@ -1,0 +1,9 @@
+created: 20220109152944
+modified: 20220109152944
+tags: 
+title: $:/themes/void/readme
+type: text/vnd.tiddlywiki
+
+Void is not a theme, but a starting point for writing a new theme.
+
+It is based on [[Zacht|https://github.com/OdinJorna/zacht-theme]].

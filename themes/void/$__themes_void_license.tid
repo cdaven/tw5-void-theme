@@ -1,7 +1,14 @@
+caption: licence
+created: 20220109152944
+modified: 20220109152944
+tags: 
+title: $:/themes/void/license
+type: text/vnd.tiddlywiki
+
 MIT License
 
 Copyright (c) 2022 Christian Davén
-Copyright (c) 2020 [Odin Jorna](https://github.com/OdinJorna)
+Copyright (c) 2020 [[Odin Jorna|https://github.com/OdinJorna]]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

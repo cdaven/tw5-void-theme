@@ -1,0 +1,12 @@
+{
+    "title": "$:/themes/void",
+    "name": "Void",
+    "description": "Not a theme",
+    "plugin-type": "theme",	
+    "author": "Nobody",
+    "version": "0.1",
+    "core-version": ">=5.1.23",
+    "list": "license readme config",
+    "dependents": ["$:/themes/tiddlywiki/vanilla"],
+    "source": "https://github.com/cdaven/tw5-void-theme"
+}

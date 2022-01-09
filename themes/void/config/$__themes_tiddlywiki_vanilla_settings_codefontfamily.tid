@@ -1,0 +1,6 @@
+created: 20220109153310
+modified: 20220109153310
+title: $:/themes/tiddlywiki/vanilla/settings/codefontfamily
+type: text/vnd.tiddlywiki
+
+ui-monospace, "Cascadia Mono", "Segoe UI Mono", "Ubuntu Mono", "Roboto Mono", Menlo, Monaco, Consolas, monospace;
