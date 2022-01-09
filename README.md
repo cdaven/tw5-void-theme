@@ -1,6 +1,6 @@
 # Void Theme
 
-Void is not a theme, but a starting point for writing a new theme.
+Void is not a TiddlyWiki theme, but a starting point for writing a new TiddlyWiki theme.
 
 It is based on [Zacht](https://github.com/OdinJorna/zacht-theme).
 
