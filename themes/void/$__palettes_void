@@ -4,19 +4,14 @@ alert-highlight: #881122
 alert-muted-foreground: #b99e2f
 background: #ffffff
 blockquote-bar: <<colour muted-foreground>>
-button-background:
-button-foreground:
-button-border:
 code-background: #f7f7f9
 code-border: #e1e1e8
 code-foreground: #dd1144
 diff-delete-background: #ffc9c9
 diff-delete-foreground: <<colour foreground>>
-diff-equal-background: 
 diff-equal-foreground: <<colour foreground>>
 diff-insert-background: #aaefad
 diff-insert-foreground: <<colour foreground>>
-diff-invisible-background: 
 diff-invisible-foreground: <<colour muted-foreground>>
 dirty-indicator: #ff0000
 download-background: #34c734
@@ -51,10 +46,6 @@ page-background: #f4f4f4
 pre-background: #f5f5f5
 pre-border: #cccccc
 primary: #5778d8
-selection-background:
-selection-foreground:
-select-tag-background:
-select-tag-foreground:
 sidebar-button-foreground: <<colour foreground>>
 sidebar-controls-foreground-hover: #000000
 sidebar-controls-foreground: #aaaaaa
@@ -67,7 +58,6 @@ sidebar-tab-background: #e0e0e0
 sidebar-tab-border-selected: <<colour tab-border-selected>>
 sidebar-tab-border: <<colour tab-border>>
 sidebar-tab-divider: #e4e4e4
-sidebar-tab-foreground-selected:
 sidebar-tab-foreground: <<colour tab-foreground>>
 sidebar-tiddler-link-foreground-hover: #444444
 sidebar-tiddler-link-foreground: #999999
@@ -102,15 +92,6 @@ tiddler-link-background: <<colour background>>
 tiddler-link-foreground: <<colour primary>>
 tiddler-subtitle-foreground: #c0c0c0
 tiddler-title-foreground: #182955
-toolbar-new-button:
-toolbar-options-button:
-toolbar-save-button:
-toolbar-info-button:
-toolbar-edit-button:
-toolbar-close-button:
-toolbar-delete-button:
-toolbar-cancel-button:
-toolbar-done-button:
 untagged-background: #999999
 very-muted-foreground: #888888
 wikilist-background: #e5e5e5

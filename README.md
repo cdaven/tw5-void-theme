@@ -19,6 +19,10 @@ Modify the style.scss file and generate the css tiddler with:
 
     make css
 
+Generate the TiddlyWiki palette with:
+
+    make palette
+
 Then run TiddlyWiki to inspect:
 
     make serve
