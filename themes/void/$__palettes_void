@@ -1,8 +1,10 @@
+background: #ffffff
+foreground: #333333
+muted-foreground: #bbb
 alert-background: #ffe476
 alert-border: #b99e2f
 alert-highlight: #881122
 alert-muted-foreground: #b99e2f
-background: #ffffff
 blockquote-bar: <<colour muted-foreground>>
 code-background: #f7f7f9
 code-border: #e1e1e8
@@ -29,7 +31,6 @@ external-link-background: inherit
 external-link-foreground-hover: inherit
 external-link-foreground-visited: #0000aa
 external-link-foreground: #0000ee
-foreground: #333333
 message-background: #ecf2ff
 message-border: #cfd6e6
 message-foreground: #547599
@@ -39,13 +40,19 @@ modal-border: #999999
 modal-footer-background: #f5f5f5
 modal-footer-border: #dddddd
 modal-header-border: #eeeeee
-muted-foreground: #bbb
 notification-background: #ffffdd
 notification-border: #999999
 page-background: #f4f4f4
 pre-background: #f5f5f5
 pre-border: #cccccc
 primary: #5778d8
+tab-background-selected: #ffffff
+tab-background: #d8d8d8
+tab-border-selected: #d8d8d8
+tab-border: #cccccc
+tab-divider: #d8d8d8
+tab-foreground: #666666
+tab-foreground-selected: <<colour tab-foreground>>
 sidebar-button-foreground: <<colour foreground>>
 sidebar-controls-foreground-hover: #000000
 sidebar-controls-foreground: #aaaaaa
@@ -61,15 +68,7 @@ sidebar-tab-divider: #e4e4e4
 sidebar-tab-foreground: <<colour tab-foreground>>
 sidebar-tiddler-link-foreground-hover: #444444
 sidebar-tiddler-link-foreground: #999999
-site-title-foreground: <<colour tiddler-title-foreground>>
 static-alert-foreground: #aaaaaa
-tab-background-selected: #ffffff
-tab-background: #d8d8d8
-tab-border-selected: #d8d8d8
-tab-border: #cccccc
-tab-divider: #d8d8d8
-tab-foreground-selected: <<colour tab-foreground>>
-tab-foreground: #666666
 table-border: #dddddd
 table-footer-background: #a8a8a8
 table-header-background: #f0f0f0
@@ -92,6 +91,7 @@ tiddler-link-background: <<colour background>>
 tiddler-link-foreground: <<colour primary>>
 tiddler-subtitle-foreground: #c0c0c0
 tiddler-title-foreground: #182955
+site-title-foreground: <<colour tiddler-title-foreground>>
 untagged-background: #999999
 very-muted-foreground: #888888
 wikilist-background: #e5e5e5
