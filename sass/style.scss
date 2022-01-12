@@ -1,2 +1,12 @@
-@import 'palette';
+@import "palette";
 
+// Same as in Vanilla theme
+$media-breakpoint: 960px;
+
+@media (max-width: ($media-breakpoint - 1)) {
+    // Below breakpoint
+}
+
+@media (min-width: $media-breakpoint) {
+    // Above breakpoint
+}

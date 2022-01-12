@@ -12,6 +12,8 @@ The main theme building is done in `sass/style.scss`, which imports `sass/_palet
 
 The file `sass/_palette.scss` can also be transpiled to a TiddlyWiki palette.
 
+See https://sass-lang.com/documentation for SASS/SCSS documentation.
+
 # Dependencies
 
 You need to install some things via npm:
