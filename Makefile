@@ -15,11 +15,11 @@ palette:
 	cp sass/_palette.scss 'sass/$$__palettes_void'
 	@# Remove lines starting with //
 	sed -i '/^\/\//d' 'sass/$$__palettes_void'
-	@# Remove leading $ characters //
+	@# Remove leading $ characters
 	sed -i 's/^\$$//g' 'sass/$$__palettes_void'
-	@# Remove all ; characters //
+	@# Remove all ; characters
 	sed -i 's/;//g' 'sass/$$__palettes_void'
-	@# Transpile variables to the right //
+	@# Transpile variables to the right
 	sed -i 's/\$$\([^\r\n]*\)/<<colour \1>>/g' 'sass/$$__palettes_void'
 	mv 'sass/$$__palettes_void' themes/void/
 
