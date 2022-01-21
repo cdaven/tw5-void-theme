@@ -2,7 +2,7 @@
 
 Void is not a TiddlyWiki theme, but a starting point for writing a new TiddlyWiki theme.
 
-It is based on [Zacht](https://github.com/OdinJorna/zacht-theme).
+The code is based on [Zacht](https://github.com/OdinJorna/zacht-theme), and extends/depends on "Vanilla".
 
 # Concept
 
@@ -21,6 +21,10 @@ You need to install some things via npm:
     npm install --global tiddlywiki node-sass
 
 You also need GNU make and, for building the palette, the `sed` utility.
+
+On Ubuntu (and Debian?), you can install GNU make with:
+
+    sudo apt-get install build-essential
 
 # Building
 

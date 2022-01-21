@@ -8,8 +8,8 @@ type: text/vnd.tiddlywiki
 
 !! How to install:
 
-Drag and drop the following link into your tiddler:
+Drag and drop this link into your TiddlyWiki:
 
 {{$:/themes/void||$:/core/ui/Components/plugin-info}}
 
-After installing the theme, change your theme in the control panel to `Void`and your color palette to `Void` {{$:/core/ui/Buttons/palette}}
+After installing the theme, change your theme in the control panel to "Void" and your color palette to "Void".

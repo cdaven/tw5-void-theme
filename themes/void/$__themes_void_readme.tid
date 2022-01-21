@@ -6,4 +6,4 @@ type: text/vnd.tiddlywiki
 
 Void is not a theme, but a starting point for writing a new theme.
 
-It is based on [[Zacht|https://github.com/OdinJorna/zacht-theme]].
+The code is based on [[Zacht|https://github.com/OdinJorna/zacht-theme]], and extends/depends on [[Vanilla|$:/themes/tiddlywiki/vanilla]].
